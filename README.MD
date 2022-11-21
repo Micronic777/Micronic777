@@ -17,8 +17,8 @@ object **UNTURNED** {
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Micronic777">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=micronic777&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://aerodakware.com/
